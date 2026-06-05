@@ -1,0 +1,268 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Premium Wireless Headphones",
+      "description": "Experience uncompromised sound with advanced hybrid Active Noise Cancellation, custom high-excursion dynamic drivers, and memory foam comfort designed for all-day listening sessions.",
+      "price": 299,
+      "originalPrice": 349,
+      "rating": 4.8,
+      "reviewCount": 124,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJTD2C1GEuOviw2urlwWaO6lUentST0vcDxbJ5scvNIhEhn4RckqdlqVmZG4moa554R-ClqjPRORzeYTmgtx1reDQ-sG1VFeIYUiNC28wILnJQPLQ5TCrD2kxJLOHS9qT1nph-oiUICa1XkhWiRSlVljMTUEspjNXLZAKUNbdP_1ayEfV1QQXMbORTYF45YkK11oEWmnwVkBFx6yiuI9CMoPd0tcOeJw16HGhFRgoPXo1Blv6agS-pIIQD9gsvfAQ8cTa0bEl6svXM",
+      "category": "Electronics",
+      "stock": 15,
+      "features": [
+        "Active Noise Cancellation (ANC)",
+        "40-Hour Battery Life",
+        "Hi-Res Wireless Audio certified",
+        "Bluetooth 5.2 multipoint pairing"
+      ],
+      "tags": ["wireless", "audio", "premium", "anc"]
+    },
+    {
+      "id": "prod-2",
+      "name": "Sleek Minimalist Chronograph",
+      "description": "A striking modern design that joins clean geometry with micro-engineered mechanical excellence. Crafted with premium surgical stainless steel and an exchangeable Italian leather strap.",
+      "price": 180,
+      "originalPrice": 220,
+      "rating": 4.6,
+      "reviewCount": 88,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDwrBSearWliR0q8dKEkZ47EXruEoXqdw5BqjHUL_h8NaVIb2TUHw4afQnvui1Px30Nsv3J9n9ScBkCbAaBI6G8PtL3n9n_Q6mg18Va8EU1NJmPvzp-Tgb6nd9wWTKXODfIbvNHsYpt--w7uKgKqByAnRd_x6NFg_0ez_2TserWGtw23J3xwcw6Kssh4Pb1P24BzHBg3IxqqzRItdcHts7WYya3M-_WW6hhe99zeC7H69K3NP95JKbGCEnkFfvC3FjxP9OlmYG0cH6f",
+      "category": "Accessories",
+      "stock": 8,
+      "features": [
+        "316L Stainless Steel Casing",
+        "Genuine Italian Leather Strap",
+        "Scratch-resistant Sapphire Crystal",
+        "5 ATM Water Resistance"
+      ],
+      "tags": ["watch", "classic", "minimalist", "waterproof"]
+    },
+    {
+      "id": "prod-3",
+      "name": "Aero-Lite Prime Sneaker",
+      "description": "Engineered for daily agility and supreme responsive cushioning. Featuring our ultra-breathable recycled knitted sock structure and reactive energy-return memory foam active soles.",
+      "price": 120,
+      "rating": 4.5,
+      "reviewCount": 210,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD3LRx8KhdgkuRLnbfPQMdTuWq-Rgaiz84L82totBfmGAkGqr4jB6KAwuAgDjNjbBA0HjPBoWttu-aWnukwaEmvseFGNEqcZDbxsLWIWp0KB4wN7amQj8uTY4QSX25sETvCG1RT7a9hVMhSQwXgrt3im83Uj0cr-_GqtqqKCfUqfOg8d75zmpTyj0PsIFwpZ6kby5Ky3Mpt3UUzrK2pgDpnl9r4fXB5bBc2aITS3SPRhi-7vnpn6bdNpqLax1gOMUWgXx68VUDiGNpD",
+      "category": "Footwear",
+      "stock": 20,
+      "features": [
+        "100% Recycled Knit Sock upper",
+        "Energy-returning foam midsole",
+        "Anti-microbial charcoal lining",
+        "Tough dual-density rubber treads"
+      ],
+      "tags": ["sneakers", "running", "casual", "sustainable"]
+    },
+    {
+      "id": "prod-4",
+      "name": "Linen Blend Collar Shirt",
+      "description": "The epitome of refined summer leisure. This casual shirt is spun from luxurious organic French flax-linen and pure long-staple cotton for breezy breathability and a casual textured finish.",
+      "price": 75,
+      "originalPrice": 95,
+      "rating": 4.4,
+      "reviewCount": 64,
+      "image": "https://lh3.googleusercontent.com/aida/AP1WRLtkbhWMW0w3B1u5OmRcIhvh9WOcUeh2gP9hISEI6HAIMB-RkLStv8q8TIy-6c2y-uZnBwEzRfJEaPM6sBbyNPvYc-plLEzV_v5g-y3P7HS6WcpGP4chgM6sZ_a4LNAAWdcw4gdqQwiTIm7tIEmJikoNzqBTw3ykSoJ-Ymbp6GCojv-2XN6huFVKTjWbldnRTUz60KljYO3LsWNoKS9kaDR9atcSMc-p9q7bQi7yhSTnu2Q6A2dOPd9miflH",
+      "category": "Apparel",
+      "stock": 4,
+      "features": [
+        "Premium French flax linen & combed cotton blend",
+        "Soft pre-washed texture",
+        "Naturally breathable and moisture-wicking",
+        "Signature genuine horn buttons"
+      ],
+      "tags": ["shirt", "summer", "linen", "casual"]
+    },
+    {
+      "id": "prod-5",
+      "name": "Minimalist Ceramic Craft Vase",
+      "description": "Meticulously thrown by hand. Perfect rustic silhouette layered with an elegant raw matte stone glaze that captures natural earth minerals and subtle shadow contours.",
+      "price": 55,
+      "rating": 4.7,
+      "reviewCount": 42,
+      "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?auto=format&fit=crop&w=600&q=80",
+      "category": "Home Decor",
+      "stock": 12,
+      "features": [
+        "Handmade stoneware craftsmanship",
+        "Organic mineral glaze styling",
+        "Watertight internal safe coat",
+        "Anti-scratch protective felt base"
+      ],
+      "tags": ["ceramics", "handcrafted", "interior", "vase"]
+    },
+    {
+      "id": "prod-6",
+      "name": "Leather Heritage Suitcase",
+      "description": "Constructed from heavy, oil-waxed full-grain vegetable tanned saddlery leather. Designed to acquire a gorgeous personal golden patina over decades of international travel.",
+      "price": 320,
+      "originalPrice": 380,
+      "rating": 4.9,
+      "reviewCount": 95,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+      "category": "Accessories",
+      "stock": 3,
+      "features": [
+        "Vegetable-tanned full-grain leather",
+        "Heavy-duty solid brass rivets & buckles",
+        "Padded 16-inch laptop pocket",
+        "Spacious internal canvas dividers"
+      ],
+      "tags": ["leather", "travel", "luggage", "patina"]
+    },
+    {
+      "id": "prod-7",
+      "name": "Omni-Hub Smart Assistant",
+      "description": "Intelligent control and sensory sound combined. Act as a unifying touch-control center for over 200 connected smart home protocols including Matter and Zigbee v3.",
+      "price": 145,
+      "rating": 4.3,
+      "reviewCount": 76,
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+      "category": "Electronics",
+      "stock": 22,
+      "features": [
+        "High-definition 7-inch touchscreen",
+        "Inbuilt Zigbee/Thread/Matter radio",
+        "Privacy-first hardware microphone mute lock",
+        "Multi-room spatial sound pairing"
+      ],
+      "tags": ["smarthome", "sound", "voice", "matter"]
+    },
+    {
+      "id": "prod-8",
+      "name": "Soma Ergonomic Task Chair",
+      "description": "The terminal of structural alignment. Fully personalized comfort featuring smart 3-point active lumbar tracking, synchronous tilt, and fully multidimensional arm positioning.",
+      "price": 450,
+      "originalPrice": 499,
+      "rating": 4.7,
+      "reviewCount": 182,
+      "image": "https://images.unsplash.com/photo-1505797149-43b0069ec26b?auto=format&fit=crop&w=600&q=80",
+      "category": "Furniture",
+      "stock": 6,
+      "features": [
+        "Dynamic self-adjusting lumbar support",
+        "Recycled elastic memory mesh back",
+        "Bespoke seat slide depth adjustment",
+        "Ultra-smooth floor protection casters"
+      ],
+      "tags": ["office", "ergonomic", "furniture", "chair"]
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin",
+      "email": "admin@eshop.com",
+      "name": "Elena Rodríguez",
+      "role": "admin",
+      "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuAnKBXqWrZsMXjaNRlJ52-dzT0gVJVtr9h19rWlBScQePF9CYjeN61Rm9FEOtkz6jX4lgBbHqulAs-vyhp0TLbxshLH2OFFTnTM2v536h81LONllAQpavFAzOvoz09qlw4EhPycSD-fcOzr2MVBUAvfIuEvg6qMnnXFUplEnc5yt4AbeAHWp7gCrz5raYXPp5JTXhNjNTt8bwmPEwiUDuHj6NPwwXD2ce_wqS2mwUO2dD9A9731T0E-0KviVcyCQretmGX1Wui3Dls-",
+      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8" 
+    },
+    {
+      "id": "user-customer",
+      "email": "alex@rivera.com",
+      "name": "Alex Rivera",
+      "role": "customer",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1001",
+      "userId": "user-customer",
+      "userName": "Alex Rivera",
+      "userEmail": "alex@rivera.com",
+      "items": [
+        {
+          "id": "prod-3-Standard-Black",
+          "product": {
+            "id": "prod-3",
+            "name": "Aero-Lite Prime Sneaker",
+            "description": "Responsive daily footwear.",
+            "price": 120,
+            "category": "Footwear",
+            "rating": 4.5,
+            "reviewCount": 210,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD3LRx8KhdgkuRLnbfPQMdTuWq-Rgaiz84L82totBfmGAkGqr4jB6KAwuAgDjNjbBA0HjPBoWttu-aWnukwaEmvseFGNEqcZDbxsLWIWp0KB4wN7amQj8uTY4QSX25sETvCG1RT7a9hVMhSQwXgrt3im83Uj0cr-_GqtqqKCfUqfOg8d75zmpTyj0PsIFwpZ6kby5Ky3Mpt3UUzrK2pgDpnl9r4fXB5bBc2aITS3SPRhi-7vnpn6bdNpqLax1gOMUWgXx68VUDiGNpD",
+            "stock": 19,
+            "features": [],
+            "tags": []
+          },
+          "quantity": 1,
+          "selectedSize": "10",
+          "selectedColor": "Premium Gray"
+        }
+      ],
+      "subtotal": 120,
+      "discount": 0,
+      "tax": 9.6,
+      "total": 129.6,
+      "status": "delivered",
+      "shippingAddress": {
+        "name": "Alex Rivera",
+        "street": "1042 Valencia Street",
+        "city": "San Francisco",
+        "postalCode": "94110",
+        "country": "United States"
+      },
+      "paymentMethod": "Visa **** 4242",
+      "createdAt": "2026-06-03T14:24:00.000Z",
+      "transactionId": "txn_89d71e2ef9a0f443b",
+      "emailSent": true
+    },
+    {
+      "id": "ORD-1002",
+      "userId": "user-customer",
+      "userName": "Alex Rivera",
+      "userEmail": "alex@rivera.com",
+      "items": [
+        {
+          "id": "prod-1-Default-Gold",
+          "product": {
+            "id": "prod-1",
+            "name": "Premium Wireless Headphones",
+            "description": "ANC spatial audio listening.",
+            "price": 299,
+            "category": "Electronics",
+            "rating": 4.8,
+            "reviewCount": 124,
+            "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJTD2C1GEuOviw2urlwWaO6lUentST0vcDxbJ5scvNIhEhn4RckqdlqVmZG4moa554R-ClqjPRORzeYTmgtx1reDQ-sG1VFeIYUiNC28wILnJQPLQ5TCrD2kxJLOHS9qT1nph-oiUICa1XkhWiRSlVljMTUEspjNXLZAKUNbdP_1ayEfV1QQXMbORTYF45YkK11oEWmnwVkBFx6yiuI9CMoPd0tcOeJw16HGhFRgoPXo1Blv6agS-pIIQD9gsvfAQ8cTa0bEl6svXM",
+            "stock": 14,
+            "features": [],
+            "tags": []
+          },
+          "quantity": 1,
+          "selectedSize": "Oner-ear",
+          "selectedColor": "Graphite Black"
+        }
+      ],
+      "subtotal": 299,
+      "discount": 59.8,
+      "tax": 19.14,
+      "total": 258.34,
+      "status": "shipped",
+      "shippingAddress": {
+        "name": "Alex Rivera",
+        "street": "1042 Valencia Street",
+        "city": "San Francisco",
+        "postalCode": "94110",
+        "country": "United States"
+      },
+      "paymentMethod": "Apple Pay",
+      "createdAt": "2026-06-04T18:10:00.000Z",
+      "transactionId": "txn_4fd11e4bf3a0f781c",
+      "emailSent": true
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-1",
+      "level": "info",
+      "message": "Production custom eShop server launched successfully on http://0.0.0.0:3000.",
+      "timestamp": "2026-06-05T01:39:00.000Z",
+      "statusCode": 200
+    }
+  ]
+}

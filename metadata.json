@@ -1,0 +1,6 @@
+{
+  "name": "eShop Storefront",
+  "description": "Full-stack luxury e-commerce storefront featuring live search, custom cart, Stripe checkout simulation, interactive admin inventory analytics, and a Gemini-powered shopping advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
